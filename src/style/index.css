@@ -8,3 +8,10 @@
 .radio__item-content--hidden {
     display: none;
 }
+
+.radio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
